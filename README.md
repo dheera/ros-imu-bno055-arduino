@@ -17,6 +17,6 @@ The wire is used to connect the power separately to pin 10. Section 29.2 of the 
 ![image](/images/assembly1.jpg "assembly1")
 GND, SDA, SCL pins line up nicely.
 
-![image](/images/assembly1.jpg "assembly2")
+![image](/images/assembly2.jpg "assembly2")
 
-![image](/images/assembly1.jpg "assembly3")
+![image](/images/assembly3.jpg "assembly3")
